@@ -1,3 +1,3 @@
 # Internet Explorer
-浏览器起始页 IE 专供版（确信
+IE 浏览器升级提示页面
 #### 仍在开发中
