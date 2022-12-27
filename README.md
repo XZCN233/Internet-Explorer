@@ -4,3 +4,6 @@
 引入 [https://ie.xiaozhao233.top/core.js](https://ie.xiaozhao233.top/core.js) 即可快速接入本站，该 js 会自动判定 IE（包括 IE 11）并在判断成功时跳转至对应语言的升级提示页面，目前支持简/繁体中文及英文。
 ## 联系我？
 我在[GitHub 主页](https://github.com/XZCN233)和[个人站点](https://xiaozhao233.top)中都有提到我的联系方式，您可以前往查看。
+## 鸣谢
+页面样式来自 [support.dmeng.net](https://support.dmeng.net/upgrade-your-browser.html)\
+项目托管于 [Cloudflare Pages](https://pages.cloudflare.com/)
