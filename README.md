@@ -1,3 +1,6 @@
 # Internet Explorer
-IE 浏览器升级提示页面
-## 仍在开发中，目前还有很多 BUG（确信
+这是一个为 IE 浏览器设计的升级提示页，您可以通过本页介绍快速了解为何要升级 IE 浏览器以及如何升级浏览器\
+## 怎么用？
+引入 [https://ie.xiaozhao233.top/core.js](https://ie.xiaozhao233.top/core.js) 即可快速接入本站，该 js 会自动判定 IE（包括 IE 11）并在判断成功时跳转至对应语言的升级提示页面，目前支持简/繁体中文及英文。
+## 联系我？
+我在[GitHub 主页](https://github.com/XZCN233)和[个人站点](https://xiaozhao233.top)中都有提到我的联系方式，您可以前往查看。
